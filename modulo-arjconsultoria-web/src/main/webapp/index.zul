@@ -1,0 +1,62 @@
+<?taglib uri="http://www.zkoss.org/dsp/web/core" prefix="c" ?>
+<?variable-resolver class="org.zkoss.zkplus.cdi.DelegatingVariableResolver"?>
+<?init class="br.com.arjconsultoria.controller.AuthenticationInitController"?>
+
+<?init class="org.zkoss.zk.ui.util.Composition" arg0="template.zul"?>
+<zk>
+	<window id="viewPrincipal"
+		apply="br.com.arjconsultoria.controller.ViewIndex">
+
+
+		<?init class="org.zkoss.zk.ui.util.Composition" arg0="template.zul"?>
+		<include id="mainInclude" self="@define(content)"></include>
+
+		<style>
+			.z-menubar-hor, .z-menubar-ver { border: 1px solid #D8D8D8;}
+			.content {overflow-x: hidden;overflow-y: scroll;} body {
+			padding: 0 0;
+			<!-- background pics -->
+			background-image: url('img/bg-controle-de-estoque.png');
+			background-repeat: no-repeat; background-attachment: fixed;
+			background-position: center;
+
+			}
+		</style>
+
+
+		<panel border="normal" title="Controle de Clientes">
+			<panelchildren>
+				<menubar id="menubar" width="100%">
+					<menu label="Cadastro">
+						<menupopup>
+						<menuitem
+										id="menuItemCadastrarCliente" visible="true"
+										label="Cadastrar Cliente" />
+							</menupopup>
+					</menu>
+					
+					<menu label="Relatórios">
+						<menupopup>
+							
+						</menupopup>
+					</menu>
+					<menu label="Configurações">
+						<menupopup>
+							
+						</menupopup>
+					</menu>
+					<menu label="Segurança">
+						<menupopup>						
+							<menuitem id="menuItemPesquisarUsuario"
+								visible="true" label="Usuário" />
+							<menuitem id="menuItemPesquisarPerfil"
+								visible="true" label="Perfil" />					
+						
+						</menupopup>
+					</menu>
+					<menuitem label="Sair" id="menuItemSair" />
+				</menubar>
+			</panelchildren>
+		</panel>
+	</window>
+</zk>

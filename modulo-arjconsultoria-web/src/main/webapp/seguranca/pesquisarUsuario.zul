@@ -1,0 +1,51 @@
+<?page title="" contentType="text/html;charset=UTF-8"?>
+<?variable-resolver class="org.zkoss.zkplus.cdi.DelegatingVariableResolver"?>
+<zk>
+
+	<window id="pesquisarUsuario" title="Pesquisar Usuário"
+		border="normal" contentStyle="overflow:auto" position="center"
+		height="70%" width="65%"
+		apply="br.com.arjconsultoria.controller.PesquisarUsuarioController">
+
+		<toolbar>
+			<button id="btnRefresh" image="/img/refresh16.png"
+				tooltiptext="Recarregar" width="35px" />
+			<button id="btnNovo" image="/img/add16.png" width="35px"
+				tooltiptext="Novo" />
+			<separator orient="vertical" />
+			<button onClick="pesquisarUsuario.detach()"
+				tooltiptext="Fechar" image="/img/exit16.png" width="35px" />
+		</toolbar>
+
+		<grid fixedLayout="true">
+			<columns>
+				<column width="10%" />
+				<column width="90%" />
+			</columns>
+		</grid>
+		<toolbar>
+			<button label="Buscar" id="btnPesquisa"
+				image="/img/find16.png" />
+		</toolbar>
+		<listbox id="usuarioList"
+			use="br.com.arjconsultoria.component.MyListbox"
+			multiple="false">
+			<listhead sizable="true">
+				<listheader width="10%" label="ID" sort="auto(usuario.usuarioId)" />
+				<listheader label="Login" sort="auto(usuario.login)" />
+				<listheader label="Nome" sort="auto(usuario.nomeUsuario)" />
+				<listheader label="Email" sort="auto(usuario.emailUsuario)" />
+				<listheader label="Perfil" sort="auto(usuario.perfil.descPerfil)" />
+			</listhead>
+			<template name="model">
+				<listitem>
+					<listcell label="${each.usuarioId}" />
+					<listcell label="${each.login}" />
+					<listcell label="${each.nomeUsuario}" />
+					<listcell label="${each.emailUsuario}" />
+					<listcell label="${each.perfil.descPerfil}" />
+				</listitem>
+			</template>
+		</listbox>
+	</window>
+</zk>

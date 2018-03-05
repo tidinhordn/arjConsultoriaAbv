@@ -1,0 +1,80 @@
+<?page title="Cadastrar Usuario" contentType="text/html;charset=UTF-8"?>
+<?variable-resolver class="org.zkoss.zkplus.cdi.DelegatingVariableResolver"?>
+<?init class="org.zkoss.zkplus.databind.AnnotateDataBinderInit" arg0="winCadastrarEditarUsuario"?>
+<?taglib uri="http://www.zkoss.org/dsp/web/core" prefix="c"?>
+<zk xmlns:c="client">
+
+	<window id="winCadastrarEditarUsuario"
+		title="Cadastrar e Editar Usuário" border="normal"
+		contentStyle="overflow:auto" position="center" height="50%"
+		width="35%" closable="false"
+		apply="br.com.arjconsultoria.controller.CadastarEditarUsuarioController">
+
+		<style>.campo{ padding-top: 5px; }</style>
+
+		<toolbar>
+			<hbox spacing="5px" style="padding:1px" align="right">
+				<button id="btnApagar" height="20" tooltiptext="Apagar"
+					image="/img/remove16.png" width="35px" />
+				<button id="btnSalvar" height="20" tooltiptext="Salvar"
+					image="/img/save16.png" width="35px" />
+				<button id="btnFechar" height="20" tooltiptext="Fechar"
+					image="/img/exit16.png" width="35px"
+					onClick="winCadastrarEditarUsuario.detach()" />
+			</hbox>
+		</toolbar>
+
+		<vlayout style="padding: 15px 5px 15px 5px">
+			<hlayout sclass="campo">
+				<div width="110px">
+					<label value="ID:" />
+				</div>
+				<textbox id="txtUsuarioId" width="300px" disabled="true"
+					value="@{winCadastrarEditarUsuario$composer.usuario.usuarioId}" />
+			</hlayout>
+			<hlayout sclass="campo">
+				<div width="110px">
+					<label value="Login:" />
+				</div>
+				<textbox id="txtLoginUsuario" width="300px"
+					value="@{winCadastrarEditarUsuario$composer.usuario.login}" />
+			</hlayout>
+			<hlayout sclass="campo">
+				<div width="110px">
+					<label value="Senha:" />
+				</div>
+				<textbox id="txtSenhaUsuario" width="300px" type="password"
+					value="@{winCadastrarEditarUsuario$composer.usuario.senha}"/>
+			</hlayout>
+			<hlayout sclass="campo">
+				<div width="110px">
+					<label value="Nome:" />
+				</div>
+				<textbox id="txtNomeUsuario" width="300px"
+					value="@{winCadastrarEditarUsuario$composer.usuario.nomeUsuario}"/>
+			</hlayout>
+			<hlayout sclass="campo">
+				<div width="110px">
+					<label value="Email:" />
+				</div>
+				<textbox id="txtEmailUsuario" width="300px"
+					value="@{winCadastrarEditarUsuario$composer.usuario.emailUsuario}"/>
+			</hlayout>
+			<hlayout sclass="campo">
+				<div sclass="tamanhoDiv" width="110px">
+					<label value="Perfil:" />
+				</div>
+				<combobox id="cmbPerfil" autodrop="true"
+					width="300px" mold="rounded" buttonVisible="true"
+					model="@{winCadastrarEditarUsuario$composer.listarPerfil}"
+					selectedItem="@{winCadastrarEditarUsuario$composer.usuario.perfil}"
+					readonly="true" constraint="no empty:O campo não pode ser vazio">
+					<template name="model">
+						<comboitem label="${each.descPerfil}"
+							value="${each}" />
+					</template>
+				</combobox>
+			</hlayout>
+		</vlayout>
+	</window>
+</zk>

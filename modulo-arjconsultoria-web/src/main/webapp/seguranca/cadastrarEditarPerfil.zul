@@ -1,0 +1,82 @@
+<?page title="Cadastrar Perfil" contentType="text/html;charset=UTF-8"?>
+<?variable-resolver class="org.zkoss.zkplus.cdi.DelegatingVariableResolver"?>
+<?init class="org.zkoss.zkplus.databind.AnnotateDataBinderInit" arg0="winCadastrarEditarPerfil"?>
+<?taglib uri="http://www.zkoss.org/dsp/web/core" prefix="c"?>
+<zk xmlns:c="client">
+
+	<window id="winCadastrarEditarPerfil"
+		title="Cadastrar e Editar Perfil" border="normal"
+		contentStyle="overflow:auto" position="center" height="60%"
+		width="87%" closable="false"
+		apply="br.com.arjconsultoria.controller.CadastarEditarPerfilController">
+
+		<style>.campo{ padding-top: 5px; }</style>
+
+		<toolbar>
+			<hbox spacing="5px" style="padding:1px" align="right">
+				<button id="btnApagar" height="20" tooltiptext="Apagar"
+					image="/img/remove16.png" width="35px" />
+				<button id="btnSalvar" height="20" tooltiptext="Salvar"
+					image="/img/save16.png" width="35px" />
+				<button id="btnFechar" height="20" tooltiptext="Fechar"
+					image="/img/exit16.png" width="35px"
+					onClick="winCadastrarEditarPerfil.detach()" />
+			</hbox>
+		</toolbar>
+
+		<vlayout style="padding: 15px 5px 15px 5px">
+			<hlayout sclass="campo">
+				<div width="110px">
+					<label value="ID:" />
+				</div>
+				<textbox id="txtPerfilId" width="300px" disabled="true"
+					value="@{winCadastrarEditarPerfil$composer.perfil.perfilId}" />
+			</hlayout>
+			<hlayout sclass="campo">
+				<div width="110px">
+					<label value="Descrição:" />
+				</div>
+				<textbox id="txtDescPerfil" width="300px"
+					value="@{winCadastrarEditarPerfil$composer.perfil.descPerfil}" />
+			</hlayout>
+		</vlayout>
+		
+		<hbox align="center">
+			<listbox id="listFuncaoDisponiveis" multiple="true" rows="9"
+				use="br.com.arjconsultoria.component.MyListbox">
+				<listhead>
+					<listheader label="Funções Disponíveis" />
+				</listhead>
+				<template name="model">
+					<listitem>
+						<listcell
+							label="${each.nomeFuncao }" />
+					</listitem>
+				</template>
+			</listbox>
+			<vbox spacing="10px" width="10px" align="center">
+				<image style="cursor:pointer"
+					id="btnSelecionarTodosFuncao" src="/img/rightrightarrow_g.png" />
+				<image style="cursor:pointer" id="btnSelecionarFuncao"
+					src="/img/rightarrow_g.png" />
+				<image style="cursor:pointer" id="btnRemoverFuncao"
+					src="/img/leftarrow_g.png" />
+				<image style="cursor:pointer" id="btnRemoverTodosFuncao"
+					src="/img/leftleftarrow_g.png" />
+			</vbox>
+			<listbox id="listFuncaoSelecionadas" multiple="true"
+				rows="5"
+				use="br.com.arjconsultoria.component.MyListbox">
+				<listhead>
+					<listheader label="Funções Selecionadas"></listheader>
+				</listhead>
+				<template name="model">
+					<listitem>
+						<listcell
+							label="${each.nomeFuncao}" value="${each}" />
+					</listitem>
+				</template>
+			</listbox>
+		</hbox>
+	</window>
+</zk>

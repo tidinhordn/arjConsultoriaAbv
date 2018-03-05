@@ -1,0 +1,42 @@
+<?page title="" contentType="text/html;charset=UTF-8"?>
+<?variable-resolver class="org.zkoss.zkplus.cdi.DelegatingVariableResolver"?>
+<zk>
+
+	<window id="pesquisarCliente" title="Pesquisar Bobina"
+		border="normal" contentStyle="overflow:auto" position="center"
+		height="72%" width="64%"
+		apply="br.com.arjconsultoria.controller.PesquisarClienteController">
+
+		<toolbar>
+			<button id="btnRefresh" image="/img/refresh16.png"
+				tooltiptext="Recarregar" width="35px" />
+			<button id="btnNovo" image="/img/add16.png" width="35px"
+				tooltiptext="Novo" />
+			<separator orient="vertical" />
+			<button onClick="pesquisarBobina.detach()"
+				tooltiptext="Fechar" image="/img/exit16.png" width="35px" />
+		</toolbar>
+		<grid fixedLayout="true">
+			<columns>
+				<column width="10%" />
+				<column width="90%" />
+			</columns>
+		</grid>
+		<toolbar align="end">
+			<button label="Buscar" id="btnPesquisa"
+				image="/img/find16.png" />
+		</toolbar>
+		<listbox id="clienteList"
+			use=" br.com.arjconsultoria.component.MyListbox" multiple="false"
+			>
+			<listhead sizable="true">
+				<listheader label="Nome" sort="auto(nome)" />
+				<listheader label="Cidade" sort=" auto ( cidade )" />
+				<listheader label="Telefone 1 " sort="auto(tel1)" />
+				<listheader label="Celular" sort="auto(celular)" />
+				<listheader label="Marca" sort="auto(marca)" />
+				<listheader label="Modelo" sort="auto(modelo)" />
+			</listhead>
+		</listbox>
+	</window>
+</zk>

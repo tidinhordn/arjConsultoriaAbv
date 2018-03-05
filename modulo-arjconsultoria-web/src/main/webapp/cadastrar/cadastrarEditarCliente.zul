@@ -1,0 +1,83 @@
+<?page title="Cadastrar Cliente" contentType="text/html;charset=UTF-8"?>
+<?variable-resolver class="org.zkoss.zkplus.cdi.DelegatingVariableResolver"?>
+<?init class="org.zkoss.zkplus.databind.AnnotateDataBinderInit" arg0="winCadastrarEditarCliente"?>
+<?taglib uri="http://www.zkoss.org/dsp/web/core" prefix="c"?>
+<zk>
+	<window id="winCadastrarEditarCliente"
+		title="Cadastrar e editar Cliente" border="normal"
+		contentStyle="overflow:auto" position="center" height="72%"
+		width="64%"
+		apply="br.com.arjconsultoria.controller.CadastrarEditarClienteController">
+		<toolbar>
+			<hbox spacing="5px" style="padding:1px" align="right">
+				<button id="btnApagar" height="20" tooltiptext="Apagar"
+					image="/img/remove16.png" width="35px" />
+				<button id="btnSalvar" height="20" tooltiptext="Salvar"
+					image="/img/save16.png" width="35px" />
+				<button id="btnFechar" height="20" tooltiptext="Fechar"
+					image="/img/exit16.png" width="35px"
+					onClick="winCadastrarEditarCliente.detach()" />
+			</hbox>
+		</toolbar>
+		<vlayout style="padding: 15px 5px 15px 5px"></vlayout>
+		<hlayout sclass="campo">
+			<div>
+				<label value="Nome:" />
+			</div>
+			<textbox id="txtNome" width="300px"
+				value="@{winCadastrarEditarCliente$composer.base.nome}" />
+
+			<div>
+				<label value="Tipo:" />
+			</div>
+			<textbox id="tipo" width="100px"
+				value="@{winCadastrarEditarCliente$composer.base.tipo}" />
+
+
+			<div>
+				<label value="CPF/CNPJ:" />
+			</div>
+			<textbox id="txtCnpj" width="100px"
+				value="@{winCadastrarEditarCliente$composer.base.cpfCnpj}" />
+
+
+
+
+
+
+		</hlayout>
+		<vlayout style="padding: 15px 5px 15px 5px"></vlayout>
+		<hlayout sclass="campo">
+			<div>
+				<label value="RG:" />
+			</div>
+			<textbox id="txtRg" width="200px"
+				value="@{winCadastrarEditarCliente$composer.base.identidade}" />
+
+
+			<div>
+				<label value="Data Nasc:" />
+			</div>
+			<textbox id="txtDataNascimento" width="150px"
+				value="@{winCadastrarEditarCliente$composer.base.dataNascimento}" />
+			<div>
+				<label value="Sexo:" />
+			</div>
+			<textbox id="txtSexo" width="20px"
+				value="@{winCadastrarEditarCliente$composer.base.sexo}" />
+			<div>
+				<label value="CNH:" />
+			</div>
+			<textbox id="txtCnh" width="100px"
+				value="@{winCadastrarEditarCliente$composer.base.cnh}" />
+		
+		</hlayout>
+		<vlayout style="padding: 15px 5px 15px 5px"></vlayout>
+		<hlayout sclass="campo">
+			
+		
+		</hlayout>
+
+
+	</window>
+</zk>

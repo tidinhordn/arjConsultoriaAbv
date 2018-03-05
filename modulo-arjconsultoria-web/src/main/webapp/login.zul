@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?page title="Login" ?>
+<?taglib uri="http://www.zkoss.org/dsp/web/core" prefix="c"?>
+
+<zk xmlns="http://www.zkoss.org/2005/zul" 
+    xmlns:h="http://www.w3.org/1999/xhtml"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.zkoss.org/2005/zul http://www.zkoss.org/2005/zul/zul.xsd">
+    
+    	
+		
+		<window id="winLogin" title="Controle de Clientes - LOGIN" border="normal" width="400px" position="center" mode="overlapped" onCreate="txtUsuario.focus()" 
+		apply="br.com.arjconsultoria.controller.LoginController"
+		contentStyle="overflow:auto"  closable="false">
+
+		<style>
+			.campo{ padding-top: 5px; } .tamanhoDiv{ width: 130px;}
+		</style>
+        
+            <grid>                
+                <rows >
+                    <row align="left">
+                        <label value=" Usuário:" />
+                        <hbox align="center">
+                            <textbox id="txtUsuario" name="login"  
+                                constraint="no empty" />
+                        </hbox>
+                    </row>
+                    <row align="left">
+                        <label value=" Senha:"/>
+                        <hbox align="center">
+                            <textbox id="txtSenha" type="password" name="senha" 
+                                constraint="no empty" />
+                        </hbox>
+                    </row>                    
+                    <row spans="2" align="center">
+                    <hbox align="center">
+                    	<hbox align="center">
+							<button id="btnLogar" height="20" 
+                        	tooltiptext="Logar" label="Acesso" image=""
+                        	width="80px"/>
+                    	</hbox>
+                    </hbox>                       
+                    </row>
+                    <row if="${not empty param.login_error}" spans="2" align="center">
+                        <label style="color:red" value="Login incorreto. Tente novamente"/>
+                    </row>
+                </rows>
+            </grid>
+       
+    </window>
+</zk>
