@@ -2,7 +2,7 @@
 <?variable-resolver class="org.zkoss.zkplus.cdi.DelegatingVariableResolver"?>
 <?init class="org.zkoss.zkplus.databind.AnnotateDataBinderInit" arg0="winCadastrarEditarUsuario"?>
 <?taglib uri="http://www.zkoss.org/dsp/web/core" prefix="c"?>
-<zk xmlns:c="client">
+<zk xmlns:c="usuario">
 
 	<window id="winCadastrarEditarUsuario"
 		title="Cadastrar e Editar Usuário" border="normal"

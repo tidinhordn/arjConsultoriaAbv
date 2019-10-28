@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects>
+  <project name="modulo-arjconsultoria-ejb"/>
+  <project name="modulo-arjconsultoria-model"/>
+ </depends-on-projects>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/javax/validation/api/main/validation-api-1.1.0.Final.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/springframework/spring-expression/3.0.6.RELEASE/spring-expression-3.0.6.RELEASE.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/bouncycastle/bcmail-jdk14/138/bcmail-jdk14-138.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/springframework/spring-core/3.0.6.RELEASE/spring-core-3.0.6.RELEASE.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/org/jboss/as/controller-client/main/wildfly-controller-client-2.0.10.Final.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/javax/activation/activation/1.1.1/activation-1.1.1.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.1.4/jackson-core-2.1.4.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/jboss/spec/javax/faces/jboss-jsf-api_2.2_spec/2.2.8/jboss-jsf-api_2.2_spec-2.2.8.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/javax/enterprise/api/main/cdi-api-1.2.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/javax/servlet/jstl/api/main/jboss-jstl-api_1.2_spec-1.1.2.Final.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jboss-jstl-api_1.2_spec-1.1.2.Final.jar/meta-inf/c-1_0-rt.tld" project="modulo-arjconsultoria-ejb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jboss-jstl-api_1.2_spec-1.1.2.Final.jar/meta-inf/c-1_0.tld" project="modulo-arjconsultoria-ejb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jboss-jstl-api_1.2_spec-1.1.2.Final.jar/meta-inf/c-1_1.tld" project="modulo-arjconsultoria-ejb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jboss-jstl-api_1.2_spec-1.1.2.Final.jar/meta-inf/c.tld" project="modulo-arjconsultoria-ejb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jboss-jstl-api_1.2_spec-1.1.2.Final.jar/meta-inf/fmt-1_0-rt.tld" project="modulo-arjconsultoria-ejb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jboss-jstl-api_1.2_spec-1.1.2.Final.jar/meta-inf/fmt-1_0.tld" project="modulo-arjconsultoria-ejb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jboss-jstl-api_1.2_spec-1.1.2.Final.jar/meta-inf/fmt.tld" project="modulo-arjconsultoria-ejb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jboss-jstl-api_1.2_spec-1.1.2.Final.jar/meta-inf/fn.tld" project="modulo-arjconsultoria-ejb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jboss-jstl-api_1.2_spec-1.1.2.Final.jar/meta-inf/permittedtaglibs.tld" project="modulo-arjconsultoria-ejb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jboss-jstl-api_1.2_spec-1.1.2.Final.jar/meta-inf/scriptfree.tld" project="modulo-arjconsultoria-ejb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jboss-jstl-api_1.2_spec-1.1.2.Final.jar/meta-inf/sql-1_0-rt.tld" project="modulo-arjconsultoria-ejb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jboss-jstl-api_1.2_spec-1.1.2.Final.jar/meta-inf/sql-1_0.tld" project="modulo-arjconsultoria-ejb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jboss-jstl-api_1.2_spec-1.1.2.Final.jar/meta-inf/sql.tld" project="modulo-arjconsultoria-ejb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jboss-jstl-api_1.2_spec-1.1.2.Final.jar/meta-inf/x-1_0-rt.tld" project="modulo-arjconsultoria-ejb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jboss-jstl-api_1.2_spec-1.1.2.Final.jar/meta-inf/x-1_0.tld" project="modulo-arjconsultoria-ejb"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jboss-jstl-api_1.2_spec-1.1.2.Final.jar/meta-inf/x.tld" project="modulo-arjconsultoria-ejb"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/zkoss/common/zcommon/6.5.2/zcommon-6.5.2.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/org/jboss/resteasy/resteasy-jaxrs/main/async-http-servlet-3.0-3.0.14.Final.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/commons-lang/commons-lang/2.3/commons-lang-2.3.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/javax/batch/api/main/jboss-batch-api_1.0_spec-1.0.0.Final.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/javax/faces/api/main/jboss-jsf-api_2.2_spec-2.2.12.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/javax/transaction/api/main/jboss-transaction-api_1.2_spec-1.0.0.Final.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/bouncycastle/bctsp-jdk14/1.38/bctsp-jdk14-1.38.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/springframework/spring-asm/3.0.6.RELEASE/spring-asm-3.0.6.RELEASE.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/hibernate/hibernate-validator/5.1.3.Final/hibernate-validator-5.1.3.Final.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/javax/websocket/api/main/jboss-websocket-api_1.1_spec-1.1.1.Final.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/org/picketbox/main/picketbox-4.9.4.Final.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/org/jboss/resteasy/resteasy-jaxrs/main/resteasy-jaxrs-3.0.14.Final.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/bouncycastle/bcprov-jdk14/138/bcprov-jdk14-138.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/javax/management/j2ee/api/main/jboss-j2eemgmt-api_1.1_spec-1.0.1.Final.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/apache/deltaspike/modules/deltaspike-scheduler-module-api/1.5.0/deltaspike-scheduler-module-api-1.5.0.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/apache/deltaspike/core/deltaspike-core-api/1.5.0/deltaspike-core-api-1.5.0.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/commons-io/commons-io/2.4/commons-io-2.4.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/codehaus/castor/castor-core/1.3.3/castor-core-1.3.3.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/javax/xml/rpc/api/main/jboss-jaxrpc-api_1.1_spec-1.0.1.Final.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/org/jboss/logging/main/jboss-logging-3.3.0.Final.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/javax/xml/soap/api/main/jboss-saaj-api_1.3_spec-1.0.3.Final.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/stax/stax/1.2.0/stax-1.2.0.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/hibernate/hibernate-core/4.3.7.Final/hibernate-core-4.3.7.Final.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/c3p0/c3p0/0.9.1.1/c3p0-0.9.1.1.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/hibernate/javax/persistence/hibernate-jpa-2.1-api/1.0.0.Final/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/javax/xml/ws/api/main/jboss-jaxws-api_2.2_spec-2.0.2.Final.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/javax/el/javax.el-api/3.0.0/javax.el-api-3.0.0.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/aopalliance/aopalliance/1.0/aopalliance-1.0.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/apache/poi/poi/3.13-beta1/poi-3.13-beta1.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/apache/deltaspike/modules/deltaspike-scheduler-module-impl/1.5.0/deltaspike-scheduler-module-impl-1.5.0.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/org/jboss/dmr/main/jboss-dmr-1.3.0.Final.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/org/picketbox/main/picketbox-commons-1.0.0.final.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/jboss/logging/jboss-logging-annotations/1.2.0.Beta1/jboss-logging-annotations-1.2.0.Beta1.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/javax/servlet/api/main/jboss-servlet-api_3.1_spec-1.0.0.Final.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/javax/enterprise/concurrent/api/main/jboss-concurrency-api_1.0_spec-1.0.0.Final.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/hibernate/common/hibernate-commons-annotations/4.0.5.Final/hibernate-commons-annotations-4.0.5.Final.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/bouncycastle/bcmail-jdk14/1.38/bcmail-jdk14-1.38.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/springframework/spring-aop/3.0.6.RELEASE/spring-aop-3.0.6.RELEASE.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/apache/lucene/lucene-queryparser/4.5.1/lucene-queryparser-4.5.1.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/com/fasterxml/classmate/1.0.0/classmate-1.0.0.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/javax/mail/api/main/javax.mail-1.5.5.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/beanshell/bsh/2.0b4/bsh-2.0b4.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/javax/persistence/api/main/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/com/google/zxing/core/2.3.0/core-2.3.0.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/quartz-scheduler/quartz-jboss/2.1.7/quartz-jboss-2.1.7.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/javax/inject/javax.inject/1/javax.inject-1.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/dom4j/dom4j/1.6.1/dom4j-1.6.1.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/stax/stax-api/1.0.1/stax-api-1.0.1.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.1.4/jackson-annotations-2.1.4.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/zkoss/zk/zkbind/6.5.2/zkbind-6.5.2.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/javax/xml/bind/api/main/jboss-jaxb-api_2.2_spec-1.0.4.Final.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/org/jboss/resteasy/resteasy-multipart-provider/main/resteasy-multipart-provider-3.0.14.Final.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/javax/enterprise/cdi-api/1.2/cdi-api-1.2.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/zkoss/common/zel/6.5.2/zel-6.5.2.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/org/jboss/resteasy/resteasy-jaxb-provider/main/resteasy-jaxb-provider-3.0.14.Final.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/zkoss/zk/zhtml/6.5.2/zhtml-6.5.2.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.1.4/jackson-databind-2.1.4.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/javax/ejb/api/main/jboss-ejb-api_3.2_spec-1.0.0.Final.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/jboss/jandex/1.1.0.Final/jandex-1.1.0.Final.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/jboss/resteasy/jaxrs-api/3.0.10.Final/jaxrs-api-3.0.10.Final.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/commons-codec/commons-codec/1.6/commons-codec-1.6.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/antlr/antlr/2.7.7/antlr-2.7.7.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/apache/deltaspike/core/deltaspike-core-impl/1.5.0/deltaspike-core-impl-1.5.0.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/commons-beanutils/commons-beanutils/1.9.0/commons-beanutils-1.9.0.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/javax/interceptor/api/main/jboss-interceptors-api_1.2_spec-1.0.0.Final.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/olap4j/olap4j/0.9.7.309-JS-3/olap4j-0.9.7.309-JS-3.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/apache/lucene/lucene-queries/4.5.1/lucene-queries-4.5.1.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/apache/deltaspike/cdictrl/deltaspike-cdictrl-api/1.5.0/deltaspike-cdictrl-api-1.5.0.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/slf4j/slf4j-api/1.6.1/slf4j-api-1.6.1.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/javax/inject/api/main/javax.inject-1.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.0.0.Final/jboss-transaction-api_1.2_spec-1.0.0.Final.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/commons-digester/commons-digester/2.1/commons-digester-2.1.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/quartz-scheduler/quartz/2.1.7/quartz-2.1.7.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/javax/jws/api/main/jsr181-api-1.0-MR1.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/javax/wsdl4j/api/main/wsdl4j-1.6.3.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/javax/jms/api/main/jboss-jms-api_2.0_spec-1.0.0.Final.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/jfree/jcommon/1.0.15/jcommon-1.0.15.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/eclipse/jdt/core/compiler/ecj/4.3.1/ecj-4.3.1.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/zkoss/zk/zk/6.5.2/zk-6.5.2.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/javax/resource/api/main/jboss-connector-api_1.7_spec-1.0.0.Final.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/org/jboss/ejb3/main/jboss-ejb3-ext-api-2.2.0.Final.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/bouncycastle/bcprov-jdk14/1.38/bcprov-jdk14-1.38.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/jfree/jfreechart/1.0.12/jfreechart-1.0.12.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/commons-fileupload/commons-fileupload/1.2.2/commons-fileupload-1.2.2.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/com/lowagie/itext/2.1.7.js2/itext-2.1.7.js2.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/apache/lucene/lucene-sandbox/4.5.1/lucene-sandbox-4.5.1.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/codehaus/castor/castor-xml/1.3.3/castor-xml-1.3.3.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/javax/security/auth/message/api/main/jboss-jaspi-api_1.1_spec-1.0.0.Final.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/zkoss/common/zweb/6.5.2/zweb-6.5.2.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/apache/deltaspike/cdictrl/deltaspike-cdictrl-weld/1.5.0/deltaspike-cdictrl-weld-1.5.0.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/org/jboss/resteasy/resteasy-jaxrs/main/resteasy-client-3.0.14.Final.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/org/hibernate/validator/main/hibernate-validator-5.2.3.Final.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/apache/lucene/lucene-analyzers-common/4.5.1/lucene-analyzers-common-4.5.1.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/javax/interceptor/javax.interceptor-api/1.2/javax.interceptor-api-1.2.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/javax/activation/api/main/activation-1.1.1.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/springframework/spring-context/3.0.6.RELEASE/spring-context-3.0.6.RELEASE.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/javax/servlet/jsp/api/main/jboss-jsp-api_2.3_spec-1.0.1.Final.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/org/picketbox/main/picketbox-infinispan-4.9.4.Final.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/net/sf/jasperreports/jasperreports/6.1.0/jasperreports-6.1.0.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/zkoss/zk/zkplus/6.5.2/zkplus-6.5.2.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/javax/annotation/api/main/jboss-annotations-api_1.2_spec-1.0.0.Final.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/javax/ws/rs/api/main/jboss-jaxrs-api_2.0_spec-1.0.0.Final.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/apache/lucene/lucene-core/4.5.1/lucene-core-4.5.1.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/zkoss/zk/zul/6.5.2/zul-6.5.2.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/xml-apis/xml-apis/1.3.02/xml-apis-1.3.02.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/jakarta-regexp/jakarta-regexp/1.4/jakarta-regexp-1.4.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/javax/el/api/main/jboss-el-api_3.0_spec-1.0.5.Final.jar"/>
+  <path value="C:/wildfly/wildfly-10.0.0.Final/modules/system/layers/base/javax/security/jacc/api/main/jboss-jacc-api_1.5_spec-1.0.0.Final.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/springframework/spring-beans/3.0.6.RELEASE/spring-beans-3.0.6.RELEASE.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/javax/mail/javax.mail-api/1.5.4/javax.mail-api-1.5.4.jar"/>
+  <path value="C:/Users/Aristides Junior/.m2/repository/org/apache/velocity/velocity/1.7/velocity-1.7.jar"/>
+ </paths>
+ <validation>
+  <core validator-id="jboss.cdi.core">
+   <linked-resource name="%1;" path="%0"/>
+   <linked-resource declaration="true" name="%2;%3;" path="%1"/>
+   <linked-resource name="%5;" path="%4"/>
+   <linked-resource name="%1;%5;" path="%6"/>
+  </core>
+  <el>
+   <linked-el length="37" name="%7" offset="3661" path="%8"/>
+   <linked-el length="51" name="%7" offset="3474" path="%8"/>
+   <linked-el length="54" name="%9" offset="3311" path="%8"/>
+   <linked-el length="26" name="%10" offset="2077" path="%8"/>
+   <linked-el length="20" name="%10" offset="1879" path="%8"/>
+   <linked-el length="20" name="%10" offset="1696" path="%8"/>
+   <linked-el length="21" name="%11" offset="4363" path="%12"/>
+   <linked-el length="21" name="%13" offset="4363" path="%12"/>
+   <linked-el length="48" name="%14" offset="3177" path="%8"/>
+   <linked-el length="45" name="%14" offset="2918" path="%8"/>
+   <linked-el length="47" name="%14" offset="3046" path="%8"/>
+   <linked-el length="27" name="%14" offset="3526" path="%8"/>
+   <linked-el length="54" name="%14" offset="3311" path="%8"/>
+   <linked-el length="51" name="%14" offset="3474" path="%8"/>
+   <linked-el length="21" name="%15" offset="4484" path="%12"/>
+   <linked-el length="26" name="%1" offset="2077" path="%8"/>
+   <linked-el length="20" name="%1" offset="1879" path="%8"/>
+   <linked-el length="20" name="%1" offset="1696" path="%8"/>
+   <linked-el length="31" name="%1" offset="2305" path="%8"/>
+   <linked-el length="45" name="%16" offset="2918" path="%8"/>
+   <linked-el length="27" name="%16" offset="3526" path="%8"/>
+   <linked-el length="51" name="%16" offset="3474" path="%8"/>
+   <linked-el length="26" name="%2" offset="2077" path="%8"/>
+   <linked-el length="20" name="%2" offset="1879" path="%8"/>
+   <linked-el length="20" name="%2" offset="1696" path="%8"/>
+   <linked-el length="21" name="%17" offset="4484" path="%12"/>
+   <linked-el length="48" name="%18" offset="3177" path="%8"/>
+   <linked-el length="21" name="%19" offset="4484" path="%12"/>
+   <linked-el length="47" name="%20" offset="3046" path="%8"/>
+   <linked-el length="31" name="%3" offset="2305" path="%8"/>
+   <linked-el length="23" name="%21" offset="2795" path="%8"/>
+   <linked-el length="18" name="%21" offset="2648" path="%8"/>
+   <linked-el length="13" name="%21" offset="2773" path="%8"/>
+   <linked-el length="37" name="%22" offset="3661" path="%8"/>
+   <linked-el length="51" name="%22" offset="3474" path="%8"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="request" value="%7"/>
+  <alias path="_member.phoneNumber" value="%9"/>
+  <alias
+   path="/modulo-arjconsultoria-ejb/src/main/java/br/com/arjconsultoria/modulo_arjconsultoria/model/Member.java" value="%10"/>
+  <alias
+   path="/modulo-arjconsultoria-web/src/main/java/br/com/arjconsultoria/modulo_arjconsultoria/util/WebResources.java" value="%0"/>
+  <alias path="project.artifactId" value="%11"/>
+  <alias path="project" value="%13"/>
+  <alias
+   path="/modulo-arjconsultoria-ejb/src/main/java/br/com/arjconsultoria/modulo_arjconsultoria/service/MemberRegistration.java" value="%6"/>
+  <alias path="_member" value="%14"/>
+  <alias path="/modulo-arjconsultoria-web/src/main/webapp/index.xhtml" value="%8"/>
+  <alias path="version" value="%15"/>
+  <alias
+   path="/modulo-arjconsultoria-web/src/main/java/br/com/arjconsultoria/modulo_arjconsultoria/rest/MemberResourceRESTService.java" value="%5"/>
+  <alias
+   path="/modulo-arjconsultoria-web/src/main/java/br/com/arjconsultoria/modulo_arjconsultoria/controller/MemberController.java" value="%1"/>
+  <alias path="_member.id" value="%16"/>
+  <alias path="newMember" value="%2"/>
+  <alias
+   path="/modulo-arjconsultoria-ejb/src/main/java/br/com/arjconsultoria/modulo_arjconsultoria/data/MemberRepository.java" value="%4"/>
+  <alias path="version.war" value="%17"/>
+  <alias path="_member.email" value="%18"/>
+  <alias path="version.war.plugin" value="%19"/>
+  <alias path="_member.name" value="%20"/>
+  <alias path="memberController" value="%3"/>
+  <alias path="members" value="%21"/>
+  <alias path="/modulo-arjconsultoria-web/pom.xml" value="%12"/>
+  <alias path="request.contextPath" value="%22"/>
+ </aliases>
+ <includes/>
+ <uris/>
+</kb-project>

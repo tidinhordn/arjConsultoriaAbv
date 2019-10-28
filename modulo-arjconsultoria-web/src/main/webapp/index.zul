@@ -32,6 +32,9 @@
 						<menuitem
 										id="menuItemCadastrarCliente" visible="true"
 										label="Cadastrar Cliente" />
+										<menuitem
+										id="menuItemCadastrarEmpresa" visible="true"
+										label="Cadastrar Empresa" />
 							</menupopup>
 					</menu>
 					

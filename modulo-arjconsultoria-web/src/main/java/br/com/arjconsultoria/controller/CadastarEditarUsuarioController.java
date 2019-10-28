@@ -71,7 +71,7 @@ public class CadastarEditarUsuarioController extends MySelectorComposer<Componen
 	public void doAfterCompose(Component comp) throws Exception {
 		super.doAfterCompose(comp);
 
-		usuario = (Usuario) Executions.getCurrent().getArg().get("Usuario");
+		usuario = (Usuario) Executions.getCurrent().getArg().get("usuario");
 		pesquisarUsuarioController = (PesquisarUsuarioController) Executions.getCurrent().getArg()
 				.get("controle");
 
@@ -89,6 +89,7 @@ public class CadastarEditarUsuarioController extends MySelectorComposer<Componen
 		if (isCamposValidos()) {
 
 			if (novo) {
+				usuario.setAtivo(1);
 				usuarioService.inserir(usuario);
 				Messagebox.show("Usuário salvo com sucesso",
 						Labels.getLabel("CadastarEditarUsuarioController.win.winCadastrarEditarUsuario"), Messagebox.OK,

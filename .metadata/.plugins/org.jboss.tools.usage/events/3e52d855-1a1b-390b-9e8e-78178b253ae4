@@ -1,0 +1,11 @@
+#Mon Oct 28 20:35:12 BRST 2019
+vl=How many times the 'Finish' button pressed during the day
+l=Wizard class name
+ct=jbt
+d=1572302111293
+c=0
+cmp=usage
+a=finishWizard
+cl=org.zkoss.eclipse.editor.ui.newfile.ZulNewWizard
+v=2.2.4
+s=0

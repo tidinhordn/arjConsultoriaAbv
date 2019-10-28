@@ -1,0 +1,33 @@
+<?page title="Cadastrar Empresa" contentType="text/html;charset=UTF-8"?>
+<?variable-resolver class="org.zkoss.zkplus.cdi.DelegatingVariableResolver"?>
+<?init class="org.zkoss.zkplus.databind.AnnotateDataBinderInit" arg0="winCadastrarEditarEmpresa"?>
+<?taglib uri="http://www.zkoss.org/dsp/web/core" prefix="c"?>
+<zk xmlns:c="empresa">
+
+<window id="winCadastrarEditarEmpresa"
+		title="Cadastrar e Editar Empresa" border="normal"
+		contentStyle="overflow:auto" position="center" height="50%"
+		width="35%" closable="false"
+		apply="br.com.arjconsultoria.controller.CadastarEditarEmpresaController">
+		
+		<style>.campo{ padding-top: 5px; }</style>
+
+		<toolbar>
+			<hbox spacing="5px" style="padding:1px" align="right">
+				<button id="btnApagar" height="20" tooltiptext="Apagar"
+					image="/img/remove16.png" width="35px" />
+				<button id="btnSalvar" height="20" tooltiptext="Salvar"
+					image="/img/save16.png" width="35px" />
+				<button id="btnFechar" height="20" tooltiptext="Fechar"
+					image="/img/exit16.png" width="35px"
+					onClick="winCadastrarEditarEmpresa.detach()" />
+			</hbox>
+		</toolbar>
+		
+		
+		
+		
+
+		
+</window>
+</zk>

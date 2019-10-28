@@ -57,6 +57,11 @@ public class ViewIndex extends MySelectorComposer<Component> {
 		}
 
 	}
+	
+	@Listen("onClick=#menuItemCadastrarEmpresa")
+	public void exibirPesquisaEmpresa() {
+		openWindow("cadastrar/pesquisarEmpresa.zul", "Pesquisar Empresa", null, OVERLAPPED);
+	}
 
 	@Listen("onClick=#menuItemCadastrarCliente")
 	public void exibirPesquisaTaloes() {

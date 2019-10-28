@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1566317128646_0" label="modulo-arjconsultoria" name="modulo-arjconsultoria">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/modulo-arjconsultoria-model" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/modulo-arjconsultoria-web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/modulo-arjconsultoria-ejb" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/modulo-arjconsultoria-ear" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1568473825013_1" label="Window Working Set" name="Aggregate for window 1568473825013"/>
+</workingSetManager>

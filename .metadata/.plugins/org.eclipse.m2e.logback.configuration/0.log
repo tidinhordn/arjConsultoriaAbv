@@ -1,0 +1,484 @@
+2019-08-20 13:05:30,186 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/wildfly/bom/jboss-javaee-7.0-with-tools/8.2.1.Final/jboss-javaee-7.0-with-tools-8.2.1.Final.pom
+2019-08-20 13:05:31,887 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/wildfly/bom/jboss-javaee-7.0-with-tools/8.2.1.Final/jboss-javaee-7.0-with-tools-8.2.1.Final.pom
+2019-08-20 13:05:32,281 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/wildfly/bom/jboss-bom-parent/8.2.1.Final/jboss-bom-parent-8.2.1.Final.pom
+2019-08-20 13:05:33,914 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/wildfly/bom/jboss-bom-parent/8.2.1.Final/jboss-bom-parent-8.2.1.Final.pom
+2019-08-20 13:05:34,162 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/jboss-parent/16/jboss-parent-16.pom
+2019-08-20 13:05:35,304 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/jboss-parent/16/jboss-parent-16.pom
+2019-08-20 13:05:36,449 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/repositories/public/org/jboss/spec/jboss-javaee-7.0/1.0.2.Final/jboss-javaee-7.0-1.0.2.Final.pom
+2019-08-20 13:05:37,227 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/repositories/public/org/jboss/spec/jboss-javaee-7.0/1.0.2.Final/jboss-javaee-7.0-1.0.2.Final.pom
+2019-08-20 13:05:37,560 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/repositories/public/org/jboss/arquillian/arquillian-bom/1.1.2.Final-wildfly-1/arquillian-bom-1.1.2.Final-wildfly-1.pom
+2019-08-20 13:05:39,053 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/repositories/public/org/jboss/arquillian/arquillian-bom/1.1.2.Final-wildfly-1/arquillian-bom-1.1.2.Final-wildfly-1.pom
+2019-08-20 13:05:39,378 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/repositories/public/org/jboss/shrinkwrap/shrinkwrap-bom/1.1.2/shrinkwrap-bom-1.1.2.pom
+2019-08-20 13:05:39,663 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/repositories/public/org/jboss/shrinkwrap/shrinkwrap-bom/1.1.2/shrinkwrap-bom-1.1.2.pom
+2019-08-20 13:05:40,007 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/repositories/public/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.0.0/shrinkwrap-resolver-bom-2.0.0.pom
+2019-08-20 13:05:41,992 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/repositories/public/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.0.0/shrinkwrap-resolver-bom-2.0.0.pom
+2019-08-20 13:05:42,285 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/repositories/public/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-3/shrinkwrap-descriptors-bom-2.0.0-alpha-3.pom
+2019-08-20 13:05:43,426 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/repositories/public/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-3/shrinkwrap-descriptors-bom-2.0.0-alpha-3.pom
+2019-08-20 13:05:43,723 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/repositories/public/org/jboss/arquillian/extension/arquillian-drone-bom/1.3.0.Final/arquillian-drone-bom-1.3.0.Final.pom
+2019-08-20 13:05:44,042 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/repositories/public/org/jboss/arquillian/extension/arquillian-drone-bom/1.3.0.Final/arquillian-drone-bom-1.3.0.Final.pom
+2019-08-20 13:05:44,367 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/repositories/public/org/jboss/arquillian/selenium/selenium-bom/2.40.0/selenium-bom-2.40.0.pom
+2019-08-20 13:05:44,684 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/repositories/public/org/jboss/arquillian/selenium/selenium-bom/2.40.0/selenium-bom-2.40.0.pom
+2019-08-20 13:05:44,957 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/wildfly/bom/jboss-javaee-7.0-with-hibernate/8.2.1.Final/jboss-javaee-7.0-with-hibernate-8.2.1.Final.pom
+2019-08-20 13:05:45,321 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/wildfly/bom/jboss-javaee-7.0-with-hibernate/8.2.1.Final/jboss-javaee-7.0-with-hibernate-8.2.1.Final.pom
+2019-08-20 13:06:04,552 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-ejb-plugin/2.3/maven-ejb-plugin-2.3.jar
+2019-08-20 13:06:05,455 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-ejb-plugin/2.3/maven-ejb-plugin-2.3.jar
+2019-08-20 13:06:16,550 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EjbLifecycleMapping lifecycle mapping for MavenProject: br.com.arjconsultoria:modulo-arjconsultoria-ejb:0.0.1-SNAPSHOT @ C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-ejb\pom.xml.
+2019-08-20 13:06:16,710 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/spec/javax/ejb/jboss-ejb-api_3.2_spec/1.0.0.Final/jboss-ejb-api_3.2_spec-1.0.0.Final.pom
+2019-08-20 13:06:16,937 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/spec/javax/ejb/jboss-ejb-api_3.2_spec/1.0.0.Final/jboss-ejb-api_3.2_spec-1.0.0.Final.pom
+2019-08-20 13:06:17,661 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/5.1.3.Final/hibernate-validator-5.1.3.Final.pom
+2019-08-20 13:06:18,011 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/5.1.3.Final/hibernate-validator-5.1.3.Final.pom
+2019-08-20 13:06:18,300 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator-parent/5.1.3.Final/hibernate-validator-parent-5.1.3.Final.pom
+2019-08-20 13:06:19,119 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator-parent/5.1.3.Final/hibernate-validator-parent-5.1.3.Final.pom
+2019-08-20 13:06:20,217 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-bom/1.0.2.Final/arquillian-bom-1.0.2.Final.pom
+2019-08-20 13:06:21,109 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-bom/1.0.2.Final/arquillian-bom-1.0.2.Final.pom
+2019-08-20 13:06:21,542 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/repositories/public/org/jboss/shrinkwrap/shrinkwrap-bom/1.0.1/shrinkwrap-bom-1.0.1.pom
+2019-08-20 13:06:21,858 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/repositories/public/org/jboss/shrinkwrap/shrinkwrap-bom/1.0.1/shrinkwrap-bom-1.0.1.pom
+2019-08-20 13:06:22,107 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/repositories/public/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/1.0.0-beta-7/shrinkwrap-resolver-bom-1.0.0-beta-7.pom
+2019-08-20 13:06:22,338 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/repositories/public/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/1.0.0-beta-7/shrinkwrap-resolver-bom-1.0.0-beta-7.pom
+2019-08-20 13:06:22,735 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.0.0/classmate-1.0.0.pom
+2019-08-20 13:06:22,939 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.0.0/classmate-1.0.0.pom
+2019-08-20 13:06:23,393 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.pom
+2019-08-20 13:06:23,731 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.pom
+2019-08-20 13:06:24,229 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/mail/javax.mail-api/1.5.4/javax.mail-api-1.5.4.pom
+2019-08-20 13:06:24,739 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/mail/javax.mail-api/1.5.4/javax.mail-api-1.5.4.pom
+2019-08-20 13:06:25,291 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/sun/mail/all/1.5.4/all-1.5.4.pom
+2019-08-20 13:06:26,532 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/mail/all/1.5.4/all-1.5.4.pom
+2019-08-20 13:06:26,891 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/activation/activation/1.1.1/activation-1.1.1.pom
+2019-08-20 13:06:27,097 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/activation/activation/1.1.1/activation-1.1.1.pom
+2019-08-20 13:06:27,411 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.6/commons-codec-1.6.pom
+2019-08-20 13:06:27,918 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.6/commons-codec-1.6.pom
+2019-08-20 13:06:28,221 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.9.0/commons-beanutils-1.9.0.pom
+2019-08-20 13:06:45,211 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.9.0/commons-beanutils-1.9.0.pom
+2019-08-20 13:06:45,929 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.pom
+2019-08-20 13:06:49,664 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.pom
+2019-08-20 13:06:52,959 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-digester/commons-digester/2.1/commons-digester-2.1.pom
+2019-08-20 13:06:53,940 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-digester/commons-digester/2.1/commons-digester-2.1.pom
+2019-08-20 13:06:54,231 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/17/commons-parent-17.pom
+2019-08-20 13:06:55,745 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/17/commons-parent-17.pom
+2019-08-20 13:06:55,942 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.8.3/commons-beanutils-1.8.3.pom
+2019-08-20 13:06:56,375 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.8.3/commons-beanutils-1.8.3.pom
+2019-08-20 13:06:56,675 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/14/commons-parent-14.pom
+2019-08-20 13:06:58,100 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/14/commons-parent-14.pom
+2019-08-20 13:06:58,532 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6.pom
+2019-08-20 13:06:59,305 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6.pom
+2019-08-20 13:06:59,668 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context/3.0.6.RELEASE/spring-context-3.0.6.RELEASE.pom
+2019-08-20 13:07:00,050 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context/3.0.6.RELEASE/spring-context-3.0.6.RELEASE.pom
+2019-08-20 13:07:00,443 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-parent/3.0.6.RELEASE/spring-parent-3.0.6.RELEASE.pom
+2019-08-20 13:07:03,036 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-parent/3.0.6.RELEASE/spring-parent-3.0.6.RELEASE.pom
+2019-08-20 13:07:03,226 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.0.6.RELEASE/spring-aop-3.0.6.RELEASE.pom
+2019-08-20 13:07:03,539 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.0.6.RELEASE/spring-aop-3.0.6.RELEASE.pom
+2019-08-20 13:07:03,902 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-asm/3.0.6.RELEASE/spring-asm-3.0.6.RELEASE.pom
+2019-08-20 13:07:04,448 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-asm/3.0.6.RELEASE/spring-asm-3.0.6.RELEASE.pom
+2019-08-20 13:07:04,625 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.0.6.RELEASE/spring-beans-3.0.6.RELEASE.pom
+2019-08-20 13:07:04,944 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.0.6.RELEASE/spring-beans-3.0.6.RELEASE.pom
+2019-08-20 13:07:05,244 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-core/3.0.6.RELEASE/spring-core-3.0.6.RELEASE.pom
+2019-08-20 13:07:05,463 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-core/3.0.6.RELEASE/spring-core-3.0.6.RELEASE.pom
+2019-08-20 13:07:05,677 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.0.6.RELEASE/spring-expression-3.0.6.RELEASE.pom
+2019-08-20 13:07:05,958 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.0.6.RELEASE/spring-expression-3.0.6.RELEASE.pom
+2019-08-20 13:07:06,741 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/poi/poi/3.13-beta1/poi-3.13-beta1.pom
+2019-08-20 13:07:07,075 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/poi/poi/3.13-beta1/poi-3.13-beta1.pom
+2019-08-20 13:07:07,389 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/velocity/velocity/1.7/velocity-1.7.pom
+2019-08-20 13:07:08,062 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/velocity/velocity/1.7/velocity-1.7.pom
+2019-08-20 13:07:08,335 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/quartz-scheduler/quartz-jboss/2.1.7/quartz-jboss-2.1.7.pom
+2019-08-20 13:07:08,596 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/quartz-scheduler/quartz-jboss/2.1.7/quartz-jboss-2.1.7.pom
+2019-08-20 13:07:08,772 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/quartz-scheduler/quartz-parent/2.1.7/quartz-parent-2.1.7.pom
+2019-08-20 13:07:09,397 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/quartz-scheduler/quartz-parent/2.1.7/quartz-parent-2.1.7.pom
+2019-08-20 13:07:09,652 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/quartz-scheduler/quartz/2.1.7/quartz-2.1.7.pom
+2019-08-20 13:07:09,929 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/quartz-scheduler/quartz/2.1.7/quartz-2.1.7.pom
+2019-08-20 13:07:10,127 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/deltaspike/modules/deltaspike-scheduler-module-api/1.5.0/deltaspike-scheduler-module-api-1.5.0.pom
+2019-08-20 13:07:10,331 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/deltaspike/modules/deltaspike-scheduler-module-api/1.5.0/deltaspike-scheduler-module-api-1.5.0.pom
+2019-08-20 13:07:10,484 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/deltaspike/modules/scheduler-module-project/1.5.0/scheduler-module-project-1.5.0.pom
+2019-08-20 13:07:10,694 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/deltaspike/modules/scheduler-module-project/1.5.0/scheduler-module-project-1.5.0.pom
+2019-08-20 13:07:10,905 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/deltaspike/modules/modules-project/1.5.0/modules-project-1.5.0.pom
+2019-08-20 13:07:11,099 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/deltaspike/modules/modules-project/1.5.0/modules-project-1.5.0.pom
+2019-08-20 13:07:11,272 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/deltaspike/parent-code/1.5.0/parent-code-1.5.0.pom
+2019-08-20 13:07:12,173 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/deltaspike/parent-code/1.5.0/parent-code-1.5.0.pom
+2019-08-20 13:07:12,369 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/deltaspike/parent/1.5.0/parent-1.5.0.pom
+2019-08-20 13:07:12,847 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/deltaspike/parent/1.5.0/parent-1.5.0.pom
+2019-08-20 13:07:12,996 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/deltaspike/deltaspike-project/1.5.0/deltaspike-project-1.5.0.pom
+2019-08-20 13:07:13,150 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/deltaspike/deltaspike-project/1.5.0/deltaspike-project-1.5.0.pom
+2019-08-20 13:07:13,300 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/deltaspike/deltaspike/1.5.0/deltaspike-1.5.0.pom
+2019-08-20 13:07:13,453 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/deltaspike/deltaspike/1.5.0/deltaspike-1.5.0.pom
+2019-08-20 13:07:13,618 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-bom/1.1.8.Final/arquillian-bom-1.1.8.Final.pom
+2019-08-20 13:07:13,780 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/arquillian/arquillian-bom/1.1.8.Final/arquillian-bom-1.1.8.Final.pom
+2019-08-20 13:07:13,974 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/repositories/public/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.2/shrinkwrap-bom-1.2.2.pom
+2019-08-20 13:07:14,173 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/repositories/public/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.2/shrinkwrap-bom-1.2.2.pom
+2019-08-20 13:07:14,370 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/repositories/public/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.1.1/shrinkwrap-resolver-bom-2.1.1.pom
+2019-08-20 13:07:14,573 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/repositories/public/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.1.1/shrinkwrap-resolver-bom-2.1.1.pom
+2019-08-20 13:07:14,769 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repository.jboss.org/nexus/content/repositories/public/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-7/shrinkwrap-descriptors-bom-2.0.0-alpha-7.pom
+2019-08-20 13:07:14,974 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/repositories/public/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-7/shrinkwrap-descriptors-bom-2.0.0-alpha-7.pom
+2019-08-20 13:07:15,119 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/deltaspike/core/deltaspike-core-api/1.5.0/deltaspike-core-api-1.5.0.pom
+2019-08-20 13:07:15,284 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/deltaspike/core/deltaspike-core-api/1.5.0/deltaspike-core-api-1.5.0.pom
+2019-08-20 13:07:15,438 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/deltaspike/core/core-project/1.5.0/core-project-1.5.0.pom
+2019-08-20 13:07:15,582 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/deltaspike/core/core-project/1.5.0/core-project-1.5.0.pom
+2019-08-20 13:07:15,727 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/deltaspike/modules/deltaspike-scheduler-module-impl/1.5.0/deltaspike-scheduler-module-impl-1.5.0.pom
+2019-08-20 13:07:15,958 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/deltaspike/modules/deltaspike-scheduler-module-impl/1.5.0/deltaspike-scheduler-module-impl-1.5.0.pom
+2019-08-20 13:07:16,123 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.3.7.Final/hibernate-core-4.3.7.Final.pom
+2019-08-20 13:07:16,355 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.3.7.Final/hibernate-core-4.3.7.Final.pom
+2019-08-20 13:07:16,703 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.5.Final/hibernate-commons-annotations-4.0.5.Final.pom
+2019-08-20 13:07:16,872 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.5.Final/hibernate-commons-annotations-4.0.5.Final.pom
+2019-08-20 13:07:17,132 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/deltaspike/cdictrl/deltaspike-cdictrl-api/1.5.0/deltaspike-cdictrl-api-1.5.0.pom
+2019-08-20 13:07:17,273 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/deltaspike/cdictrl/deltaspike-cdictrl-api/1.5.0/deltaspike-cdictrl-api-1.5.0.pom
+2019-08-20 13:07:17,416 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/deltaspike/cdictrl/cdictrl-project/1.5.0/cdictrl-project-1.5.0.pom
+2019-08-20 13:07:17,589 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/deltaspike/cdictrl/cdictrl-project/1.5.0/cdictrl-project-1.5.0.pom
+2019-08-20 13:07:17,756 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/deltaspike/cdictrl/deltaspike-cdictrl-weld/1.5.0/deltaspike-cdictrl-weld-1.5.0.pom
+2019-08-20 13:07:17,896 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/deltaspike/cdictrl/deltaspike-cdictrl-weld/1.5.0/deltaspike-cdictrl-weld-1.5.0.pom
+2019-08-20 13:07:18,045 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/deltaspike/core/deltaspike-core-impl/1.5.0/deltaspike-core-impl-1.5.0.pom
+2019-08-20 13:07:18,195 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/deltaspike/core/deltaspike-core-impl/1.5.0/deltaspike-core-impl-1.5.0.pom
+2019-08-20 13:07:18,346 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/zkoss/zk/zkbind/6.5.2/zkbind-6.5.2.pom
+2019-08-20 13:07:18,510 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/zkoss/zk/zkbind/6.5.2/zkbind-6.5.2.pom
+2019-08-20 13:07:18,669 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/zkoss/zk/zul/6.5.2/zul-6.5.2.pom
+2019-08-20 13:07:18,835 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/zkoss/zk/zul/6.5.2/zul-6.5.2.pom
+2019-08-20 13:07:18,982 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/zkoss/zk/zk/6.5.2/zk-6.5.2.pom
+2019-08-20 13:07:19,128 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/zkoss/zk/zk/6.5.2/zk-6.5.2.pom
+2019-08-20 13:07:19,271 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/zkoss/common/zweb/6.5.2/zweb-6.5.2.pom
+2019-08-20 13:07:19,451 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/zkoss/common/zweb/6.5.2/zweb-6.5.2.pom
+2019-08-20 13:07:19,610 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/zkoss/common/zcommon/6.5.2/zcommon-6.5.2.pom
+2019-08-20 13:07:19,765 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/zkoss/common/zcommon/6.5.2/zcommon-6.5.2.pom
+2019-08-20 13:07:19,912 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-fileupload/commons-fileupload/1.2.2/commons-fileupload-1.2.2.pom
+2019-08-20 13:07:20,062 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-fileupload/commons-fileupload/1.2.2/commons-fileupload-1.2.2.pom
+2019-08-20 13:07:20,202 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/16/commons-parent-16.pom
+2019-08-20 13:07:20,488 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/16/commons-parent-16.pom
+2019-08-20 13:07:20,632 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/zkoss/common/zel/6.5.2/zel-6.5.2.pom
+2019-08-20 13:07:20,771 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/zkoss/common/zel/6.5.2/zel-6.5.2.pom
+2019-08-20 13:07:20,953 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/zkoss/zk/zkplus/6.5.2/zkplus-6.5.2.pom
+2019-08-20 13:07:21,104 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/zkoss/zk/zkplus/6.5.2/zkplus-6.5.2.pom
+2019-08-20 13:07:21,253 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/zkoss/zk/zhtml/6.5.2/zhtml-6.5.2.pom
+2019-08-20 13:07:21,406 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/zkoss/zk/zhtml/6.5.2/zhtml-6.5.2.pom
+2019-08-20 13:07:21,736 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/spec/javax/ejb/jboss-ejb-api_3.2_spec/1.0.0.Final/jboss-ejb-api_3.2_spec-1.0.0.Final.jar
+2019-08-20 13:07:22,335 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/spec/javax/ejb/jboss-ejb-api_3.2_spec/1.0.0.Final/jboss-ejb-api_3.2_spec-1.0.0.Final.jar
+2019-08-20 13:07:22,463 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/5.1.3.Final/hibernate-validator-5.1.3.Final.jar
+2019-08-20 13:07:25,932 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/5.1.3.Final/hibernate-validator-5.1.3.Final.jar
+2019-08-20 13:07:26,060 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.0.0/classmate-1.0.0.jar
+2019-08-20 13:07:26,363 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/fasterxml/classmate/1.0.0/classmate-1.0.0.jar
+2019-08-20 13:07:26,502 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.jar
+2019-08-20 13:07:28,302 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11.jar
+2019-08-20 13:07:28,436 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/mail/javax.mail-api/1.5.4/javax.mail-api-1.5.4.jar
+2019-08-20 13:07:29,649 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/mail/javax.mail-api/1.5.4/javax.mail-api-1.5.4.jar
+2019-08-20 13:07:29,797 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/javax/activation/activation/1.1.1/activation-1.1.1.jar
+2019-08-20 13:07:30,289 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/activation/activation/1.1.1/activation-1.1.1.jar
+2019-08-20 13:07:30,418 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.6/commons-codec-1.6.jar
+2019-08-20 13:07:31,310 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.6/commons-codec-1.6.jar
+2019-08-20 13:07:31,441 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.9.0/commons-beanutils-1.9.0.jar
+2019-08-20 13:07:32,690 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-beanutils/commons-beanutils/1.9.0/commons-beanutils-1.9.0.jar
+2019-08-20 13:07:32,825 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar
+2019-08-20 13:07:34,859 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar
+2019-08-20 13:07:34,988 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-digester/commons-digester/2.1/commons-digester-2.1.jar
+2019-08-20 13:07:36,108 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-digester/commons-digester/2.1/commons-digester-2.1.jar
+2019-08-20 13:07:36,243 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-context/3.0.6.RELEASE/spring-context-3.0.6.RELEASE.jar
+2019-08-20 13:07:38,227 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context/3.0.6.RELEASE/spring-context-3.0.6.RELEASE.jar
+2019-08-20 13:07:38,359 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.0.6.RELEASE/spring-aop-3.0.6.RELEASE.jar
+2019-08-20 13:07:40,109 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-aop/3.0.6.RELEASE/spring-aop-3.0.6.RELEASE.jar
+2019-08-20 13:07:40,239 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.0.6.RELEASE/spring-beans-3.0.6.RELEASE.jar
+2019-08-20 13:07:41,959 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-beans/3.0.6.RELEASE/spring-beans-3.0.6.RELEASE.jar
+2019-08-20 13:07:42,098 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-core/3.0.6.RELEASE/spring-core-3.0.6.RELEASE.jar
+2019-08-20 13:07:42,914 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-core/3.0.6.RELEASE/spring-core-3.0.6.RELEASE.jar
+2019-08-20 13:07:43,040 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.0.6.RELEASE/spring-expression-3.0.6.RELEASE.jar
+2019-08-20 13:07:43,877 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-expression/3.0.6.RELEASE/spring-expression-3.0.6.RELEASE.jar
+2019-08-20 13:07:44,022 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-asm/3.0.6.RELEASE/spring-asm-3.0.6.RELEASE.jar
+2019-08-20 13:07:44,518 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-asm/3.0.6.RELEASE/spring-asm-3.0.6.RELEASE.jar
+2019-08-20 13:07:44,652 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/poi/poi/3.13-beta1/poi-3.13-beta1.jar
+2019-08-20 13:07:48,686 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/poi/poi/3.13-beta1/poi-3.13-beta1.jar
+2019-08-20 13:07:48,815 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/velocity/velocity/1.7/velocity-1.7.jar
+2019-08-20 13:07:49,917 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/velocity/velocity/1.7/velocity-1.7.jar
+2019-08-20 13:07:50,046 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/quartz-scheduler/quartz-jboss/2.1.7/quartz-jboss-2.1.7.jar
+2019-08-20 13:07:50,269 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/quartz-scheduler/quartz-jboss/2.1.7/quartz-jboss-2.1.7.jar
+2019-08-20 13:07:50,409 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/quartz-scheduler/quartz/2.1.7/quartz-2.1.7.jar
+2019-08-20 13:07:51,566 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/quartz-scheduler/quartz/2.1.7/quartz-2.1.7.jar
+2019-08-20 13:07:51,712 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/deltaspike/modules/deltaspike-scheduler-module-api/1.5.0/deltaspike-scheduler-module-api-1.5.0.jar
+2019-08-20 13:07:51,959 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/deltaspike/modules/deltaspike-scheduler-module-api/1.5.0/deltaspike-scheduler-module-api-1.5.0.jar
+2019-08-20 13:07:52,088 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/deltaspike/modules/deltaspike-scheduler-module-impl/1.5.0/deltaspike-scheduler-module-impl-1.5.0.jar
+2019-08-20 13:07:52,552 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/deltaspike/modules/deltaspike-scheduler-module-impl/1.5.0/deltaspike-scheduler-module-impl-1.5.0.jar
+2019-08-20 13:07:52,678 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.3.7.Final/hibernate-core-4.3.7.Final.jar
+2019-08-20 13:08:24,411 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate-core/4.3.7.Final/hibernate-core-4.3.7.Final.jar
+2019-08-20 13:08:24,541 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.5.Final/hibernate-commons-annotations-4.0.5.Final.jar
+2019-08-20 13:08:25,242 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/common/hibernate-commons-annotations/4.0.5.Final/hibernate-commons-annotations-4.0.5.Final.jar
+2019-08-20 13:08:25,366 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/deltaspike/cdictrl/deltaspike-cdictrl-api/1.5.0/deltaspike-cdictrl-api-1.5.0.jar
+2019-08-20 13:08:25,631 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/deltaspike/cdictrl/deltaspike-cdictrl-api/1.5.0/deltaspike-cdictrl-api-1.5.0.jar
+2019-08-20 13:08:25,757 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/deltaspike/cdictrl/deltaspike-cdictrl-weld/1.5.0/deltaspike-cdictrl-weld-1.5.0.jar
+2019-08-20 13:08:26,042 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/deltaspike/cdictrl/deltaspike-cdictrl-weld/1.5.0/deltaspike-cdictrl-weld-1.5.0.jar
+2019-08-20 13:08:26,191 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/deltaspike/core/deltaspike-core-api/1.5.0/deltaspike-core-api-1.5.0.jar
+2019-08-20 13:08:27,888 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/deltaspike/core/deltaspike-core-api/1.5.0/deltaspike-core-api-1.5.0.jar
+2019-08-20 13:08:28,025 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/deltaspike/core/deltaspike-core-impl/1.5.0/deltaspike-core-impl-1.5.0.jar
+2019-08-20 13:08:29,184 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/deltaspike/core/deltaspike-core-impl/1.5.0/deltaspike-core-impl-1.5.0.jar
+2019-08-20 13:08:29,324 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/zkoss/zk/zkbind/6.5.2/zkbind-6.5.2.jar
+2019-08-20 13:08:31,328 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/zkoss/zk/zkbind/6.5.2/zkbind-6.5.2.jar
+2019-08-20 13:08:31,478 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/zkoss/zk/zul/6.5.2/zul-6.5.2.jar
+2019-08-20 13:08:39,768 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/zkoss/zk/zul/6.5.2/zul-6.5.2.jar
+2019-08-20 13:08:39,954 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/zkoss/zk/zk/6.5.2/zk-6.5.2.jar
+2019-08-20 13:08:47,361 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/zkoss/zk/zk/6.5.2/zk-6.5.2.jar
+2019-08-20 13:08:47,495 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/zkoss/common/zweb/6.5.2/zweb-6.5.2.jar
+2019-08-20 13:08:49,233 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/zkoss/common/zweb/6.5.2/zweb-6.5.2.jar
+2019-08-20 13:08:49,378 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/zkoss/common/zcommon/6.5.2/zcommon-6.5.2.jar
+2019-08-20 13:08:51,835 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/zkoss/common/zcommon/6.5.2/zcommon-6.5.2.jar
+2019-08-20 13:08:51,959 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-fileupload/commons-fileupload/1.2.2/commons-fileupload-1.2.2.jar
+2019-08-20 13:08:53,273 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-fileupload/commons-fileupload/1.2.2/commons-fileupload-1.2.2.jar
+2019-08-20 13:08:53,405 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/zkoss/common/zel/6.5.2/zel-6.5.2.jar
+2019-08-20 13:08:54,772 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/zkoss/common/zel/6.5.2/zel-6.5.2.jar
+2019-08-20 13:08:54,913 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/zkoss/zk/zkplus/6.5.2/zkplus-6.5.2.jar
+2019-08-20 13:08:55,853 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/zkoss/zk/zkplus/6.5.2/zkplus-6.5.2.jar
+2019-08-20 13:08:56,021 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/zkoss/zk/zhtml/6.5.2/zhtml-6.5.2.jar
+2019-08-20 13:08:56,832 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/zkoss/zk/zhtml/6.5.2/zhtml-6.5.2.jar
+2019-08-20 13:09:01,997 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.arjconsultoria:modulo-arjconsultoria-web:0.0.1-SNAPSHOT @ C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-web\pom.xml.
+2019-08-20 13:09:02,132 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/resteasy/jaxrs-api/3.0.10.Final/jaxrs-api-3.0.10.Final.pom
+2019-08-20 13:09:02,298 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/resteasy/jaxrs-api/3.0.10.Final/jaxrs-api-3.0.10.Final.pom
+2019-08-20 13:09:02,441 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/resteasy/resteasy-jaxrs-all/3.0.10.Final/resteasy-jaxrs-all-3.0.10.Final.pom
+2019-08-20 13:09:02,665 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/resteasy/resteasy-jaxrs-all/3.0.10.Final/resteasy-jaxrs-all-3.0.10.Final.pom
+2019-08-20 13:09:02,810 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/spec/javax/faces/jboss-jsf-api_2.2_spec/2.2.8/jboss-jsf-api_2.2_spec-2.2.8.pom
+2019-08-20 13:09:02,977 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/spec/javax/faces/jboss-jsf-api_2.2_spec/2.2.8/jboss-jsf-api_2.2_spec-2.2.8.pom
+2019-08-20 13:09:03,117 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/jboss-parent/11/jboss-parent-11.pom
+2019-08-20 13:09:03,403 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/jboss-parent/11/jboss-parent-11.pom
+2019-08-20 13:09:03,543 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.3/commons-lang-2.3.pom
+2019-08-20 13:09:03,739 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.3/commons-lang-2.3.pom
+2019-08-20 13:09:04,039 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/resteasy/jaxrs-api/3.0.10.Final/jaxrs-api-3.0.10.Final.jar
+2019-08-20 13:09:04,920 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/resteasy/jaxrs-api/3.0.10.Final/jaxrs-api-3.0.10.Final.jar
+2019-08-20 13:09:05,071 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/jboss/spec/javax/faces/jboss-jsf-api_2.2_spec/2.2.8/jboss-jsf-api_2.2_spec-2.2.8.jar
+2019-08-20 13:09:08,891 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/jboss/spec/javax/faces/jboss-jsf-api_2.2_spec/2.2.8/jboss-jsf-api_2.2_spec-2.2.8.jar
+2019-08-20 13:09:09,029 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.3/commons-lang-2.3.jar
+2019-08-20 13:09:10,577 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-lang/commons-lang/2.3/commons-lang-2.3.jar
+2019-08-20 13:09:11,581 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-ear-plugin/2.10/maven-ear-plugin-2.10.jar
+2019-08-20 13:09:12,354 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-ear-plugin/2.10/maven-ear-plugin-2.10.jar
+2019-08-20 13:09:12,561 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EarLifecycleMapping lifecycle mapping for MavenProject: br.com.arjconsultoria:modulo-arjconsultoria-ear:0.0.1-SNAPSHOT @ C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-ear\pom.xml.
+2019-08-20 13:09:12,949 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.arjconsultoria:modulo-arjconsultoria-model:0.0.1-SNAPSHOT @ C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-model\pom.xml.
+2019-08-20 13:09:13,454 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-ear-plugin/2.10/maven-ear-plugin-2.10.pom
+2019-08-20 13:09:13,652 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-ear-plugin/2.10/maven-ear-plugin-2.10.pom
+2019-08-20 13:09:14,594 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.4/plexus-io-2.4.jar
+2019-08-20 13:09:15,339 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/2.4/plexus-io-2.4.jar
+2019-08-20 13:09:15,474 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.22/plexus-interpolation-1.22.jar
+2019-08-20 13:09:16,634 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interpolation/1.22/plexus-interpolation-1.22.jar
+2019-08-20 13:09:20,581 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-ejb-plugin/2.3/maven-ejb-plugin-2.3.pom
+2019-08-20 13:09:20,754 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-ejb-plugin/2.3/maven-ejb-plugin-2.3.pom
+2019-08-20 13:09:20,906 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/18/maven-plugins-18.pom
+2019-08-20 13:09:21,126 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/18/maven-plugins-18.pom
+2019-08-20 13:09:21,289 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/16/maven-parent-16.pom
+2019-08-20 13:09:21,564 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/16/maven-parent-16.pom
+2019-08-20 13:09:21,825 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.4.1/maven-archiver-2.4.1.pom
+2019-08-20 13:09:22,020 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.4.1/maven-archiver-2.4.1.pom
+2019-08-20 13:09:22,216 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/15/maven-shared-components-15.pom
+2019-08-20 13:09:22,434 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/15/maven-shared-components-15.pom
+2019-08-20 13:09:22,609 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/1.0/plexus-archiver-1.0.pom
+2019-08-20 13:09:22,824 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/1.0/plexus-archiver-1.0.pom
+2019-08-20 13:09:22,992 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.17/plexus-components-1.1.17.pom
+2019-08-20 13:09:23,221 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-components/1.1.17/plexus-components-1.1.17.pom
+2019-08-20 13:09:23,382 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/2.0.5/plexus-2.0.5.pom
+2019-08-20 13:09:23,610 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus/2.0.5/plexus-2.0.5.pom
+2019-08-20 13:09:23,789 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/1.0/plexus-io-1.0.pom
+2019-08-20 13:09:23,936 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/1.0/plexus-io-1.0.pom
+2019-08-20 13:09:24,277 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.4.1/maven-archiver-2.4.1.jar
+2019-08-20 13:09:24,702 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/2.4.1/maven-archiver-2.4.1.jar
+2019-08-20 13:09:24,840 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/1.0/plexus-archiver-1.0.jar
+2019-08-20 13:09:26,037 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/1.0/plexus-archiver-1.0.jar
+2019-08-20 13:09:26,177 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/1.0/plexus-io-1.0.jar
+2019-08-20 13:09:26,642 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/1.0/plexus-io-1.0.jar
+2019-08-20 13:09:33,678 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /modulo-arjconsultoria-model/src/main/java
+2019-08-20 13:09:33,696 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /modulo-arjconsultoria-model/src/test/java
+2019-08-20 13:09:37,295 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /modulo-arjconsultoria-ejb/src/main/java
+2019-08-20 13:09:37,296 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /modulo-arjconsultoria-ejb/src/main/resources
+2019-08-20 13:09:37,324 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /modulo-arjconsultoria-ejb/src/test/java
+2019-08-20 13:09:37,335 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /modulo-arjconsultoria-ejb/src/test/resources
+2019-08-20 13:09:49,694 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /modulo-arjconsultoria-web/src/main/java
+2019-08-20 13:09:49,695 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /modulo-arjconsultoria-web/src/test/java
+2019-08-20 13:10:03,998 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating application.xml
+2019-08-20 13:10:04,112 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 4 project(s) in 275 sec
+2019-08-20 13:13:02,025 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EjbLifecycleMapping lifecycle mapping for MavenProject: br.com.arjconsultoria:modulo-arjconsultoria-ejb:0.0.1-SNAPSHOT @ C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-ejb\pom.xml.
+2019-08-20 13:13:02,742 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.arjconsultoria:modulo-arjconsultoria-web:0.0.1-SNAPSHOT @ C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-web\pom.xml.
+2019-08-20 13:13:02,998 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EarLifecycleMapping lifecycle mapping for MavenProject: br.com.arjconsultoria:modulo-arjconsultoria-ear:0.0.1-SNAPSHOT @ C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-ear\pom.xml.
+2019-08-20 13:13:03,231 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.arjconsultoria:modulo-arjconsultoria-model:0.0.1-SNAPSHOT @ C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-model\pom.xml.
+2019-08-20 13:13:04,394 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating application.xml
+2019-08-20 13:13:06,702 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /modulo-arjconsultoria-model/src/main/java
+2019-08-20 13:13:06,712 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /modulo-arjconsultoria-model/src/test/java
+2019-08-20 13:13:06,904 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /modulo-arjconsultoria-ejb/src/main/java
+2019-08-20 13:13:06,914 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /modulo-arjconsultoria-ejb/src/main/resources
+2019-08-20 13:13:06,914 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /modulo-arjconsultoria-ejb/src/test/java
+2019-08-20 13:13:06,924 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /modulo-arjconsultoria-ejb/src/test/resources
+2019-08-20 13:13:07,222 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /modulo-arjconsultoria-web/src/main/java
+2019-08-20 13:13:07,222 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /modulo-arjconsultoria-web/src/test/java
+2019-08-20 13:13:08,233 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating application.xml
+2019-08-20 13:13:08,283 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 4 project(s) in 7 sec
+2019-08-20 13:13:11,191 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:13:11,212 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-ear\src\main\resources
+2019-08-20 13:13:21,398 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:13:21,408 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-model\src\main\resources
+2019-08-20 13:13:21,416 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:13:21,424 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-model\src\test\resources
+2019-08-20 13:13:23,758 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:13:23,818 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-08-20 13:13:23,932 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:13:23,960 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-08-20 13:13:31,072 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:13:31,082 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-web\src\main\resources
+2019-08-20 13:13:31,092 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:13:31,112 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-web\src\test\resources
+2019-08-20 13:14:36,877 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-08-20 13:14:37,388 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EarLifecycleMapping lifecycle mapping for MavenProject: br.com.arjconsultoria:modulo-arjconsultoria-ear:0.0.1-SNAPSHOT @ C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-ear\pom.xml.
+2019-08-20 13:14:38,175 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EjbLifecycleMapping lifecycle mapping for MavenProject: br.com.arjconsultoria:modulo-arjconsultoria-ejb:0.0.1-SNAPSHOT @ C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-ejb\pom.xml.
+2019-08-20 13:14:38,465 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.arjconsultoria:modulo-arjconsultoria-model:0.0.1-SNAPSHOT @ C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-model\pom.xml.
+2019-08-20 13:14:38,581 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.arjconsultoria:modulo-arjconsultoria-web:0.0.1-SNAPSHOT @ C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-web\pom.xml.
+2019-08-20 13:14:39,580 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating application.xml
+2019-08-20 13:14:42,419 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating application.xml
+2019-08-20 13:14:42,594 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /modulo-arjconsultoria-ejb/src/main/java
+2019-08-20 13:14:42,605 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /modulo-arjconsultoria-ejb/src/main/resources
+2019-08-20 13:14:42,617 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /modulo-arjconsultoria-ejb/src/test/java
+2019-08-20 13:14:42,618 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /modulo-arjconsultoria-ejb/src/test/resources
+2019-08-20 13:14:43,461 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /modulo-arjconsultoria-model/src/main/java
+2019-08-20 13:14:43,461 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /modulo-arjconsultoria-model/src/test/java
+2019-08-20 13:14:43,592 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /modulo-arjconsultoria-web/src/main/java
+2019-08-20 13:14:43,608 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /modulo-arjconsultoria-web/src/test/java
+2019-08-20 13:14:44,517 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for modulo-arjconsultoria-ear
+2019-08-20 13:14:44,953 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for modulo-arjconsultoria-web
+2019-08-20 13:14:44,969 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 8 sec
+2019-08-20 13:14:45,530 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of modulo-arjconsultoria-ear
+2019-08-20 13:14:45,542 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for modulo-arjconsultoria-ear
+2019-08-20 13:14:45,550 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.wildfly.plugins:wildfly-maven-plugin:jar:1.0.2.Final is missing, no dependency information available
+2019-08-20 13:14:45,572 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.wildfly.plugins:wildfly-maven-plugin:1.0.2.Final: Plugin org.wildfly.plugins:wildfly-maven-plugin:1.0.2.Final or one of its dependencies could not be resolved: Cannot access central (http://repo.maven.apache.org/maven2) in offline mode and the artifact org.wildfly.plugins:wildfly-maven-plugin:jar:1.0.2.Final has not been downloaded from it before.
+2019-08-20 13:14:45,621 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.wildfly.plugins:wildfly-maven-plugin:jar:1.0.2.Final is missing, no dependency information available
+2019-08-20 13:14:45,623 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.wildfly.plugins:wildfly-maven-plugin:1.0.2.Final: Plugin org.wildfly.plugins:wildfly-maven-plugin:1.0.2.Final or one of its dependencies could not be resolved: Cannot access central (http://repo.maven.apache.org/maven2) in offline mode and the artifact org.wildfly.plugins:wildfly-maven-plugin:jar:1.0.2.Final has not been downloaded from it before.
+2019-08-20 13:14:45,653 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:14:45,986 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating application.xml
+2019-08-20 13:14:46,095 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:14:46,095 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-ear\src\main\resources
+2019-08-20 13:14:46,461 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:14:46,471 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-model\src\main\resources
+2019-08-20 13:14:46,481 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:14:46,491 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-model\src\test\resources
+2019-08-20 13:14:47,718 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:14:47,718 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-08-20 13:14:47,863 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:14:47,913 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-08-20 13:14:49,094 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:14:49,105 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-web\src\main\resources
+2019-08-20 13:14:49,115 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:14:49,133 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-web\src\test\resources
+2019-08-20 13:14:49,133 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of modulo-arjconsultoria-web
+2019-08-20 13:14:49,143 [Worker-19] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for modulo-arjconsultoria-web
+2019-08-20 13:14:49,145 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:17:58,993 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:17:58,993 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-model\src\main\resources
+2019-08-20 13:17:58,993 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:17:58,993 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-model\src\test\resources
+2019-08-20 13:17:59,506 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:17:59,518 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-08-20 13:17:59,549 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:17:59,551 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-08-20 13:18:00,032 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:18:00,032 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-web\src\main\resources
+2019-08-20 13:18:00,082 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:18:00,083 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-web\src\test\resources
+2019-08-20 13:18:12,105 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:18:12,105 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-model\src\main\resources
+2019-08-20 13:18:12,146 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:18:12,156 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-model\src\test\resources
+2019-08-20 13:18:12,245 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:18:12,245 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-20 13:18:12,408 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:18:12,408 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-20 13:18:12,509 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:18:12,509 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-web\src\main\resources
+2019-08-20 13:18:12,619 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:18:12,619 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-web\src\test\resources
+2019-08-20 13:21:09,882 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:21:09,883 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-web\src\main\resources
+2019-08-20 13:21:09,884 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:21:09,884 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-web\src\test\resources
+2019-08-20 13:21:11,006 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:21:11,006 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-web\src\main\resources
+2019-08-20 13:21:11,031 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:21:11,032 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-web\src\test\resources
+2019-08-20 13:48:25,882 [Worker-41] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-08-20 13:48:26,339 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EarLifecycleMapping lifecycle mapping for MavenProject: br.com.arjconsultoria:modulo-arjconsultoria-ear:0.0.1-SNAPSHOT @ C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-ear\pom.xml.
+2019-08-20 13:48:27,198 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EjbLifecycleMapping lifecycle mapping for MavenProject: br.com.arjconsultoria:modulo-arjconsultoria-ejb:0.0.1-SNAPSHOT @ C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-ejb\pom.xml.
+2019-08-20 13:48:27,521 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: br.com.arjconsultoria:modulo-arjconsultoria-model:0.0.1-SNAPSHOT @ C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-model\pom.xml.
+2019-08-20 13:48:27,652 [Worker-41] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: br.com.arjconsultoria:modulo-arjconsultoria-web:0.0.1-SNAPSHOT @ C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-web\pom.xml.
+2019-08-20 13:48:28,599 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating application.xml
+2019-08-20 13:48:31,188 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating application.xml
+2019-08-20 13:48:31,433 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /modulo-arjconsultoria-ejb/src/main/java
+2019-08-20 13:48:31,445 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /modulo-arjconsultoria-ejb/src/main/resources
+2019-08-20 13:48:31,455 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /modulo-arjconsultoria-ejb/src/test/java
+2019-08-20 13:48:31,475 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /modulo-arjconsultoria-ejb/src/test/resources
+2019-08-20 13:48:32,087 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /modulo-arjconsultoria-model/src/main/java
+2019-08-20 13:48:32,088 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /modulo-arjconsultoria-model/src/test/java
+2019-08-20 13:48:33,154 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /modulo-arjconsultoria-web/src/main/java
+2019-08-20 13:48:33,168 [Worker-41] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /modulo-arjconsultoria-web/src/test/java
+2019-08-20 13:48:34,935 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for modulo-arjconsultoria-ear
+2019-08-20 13:48:35,988 [Worker-41] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for modulo-arjconsultoria-web
+2019-08-20 13:48:36,031 [Worker-41] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 10 sec
+2019-08-20 13:48:37,115 [Worker-44] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of modulo-arjconsultoria-ear
+2019-08-20 13:48:37,116 [Worker-44] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for modulo-arjconsultoria-ear
+2019-08-20 13:48:37,144 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.wildfly.plugins:wildfly-maven-plugin:jar:1.0.2.Final is missing, no dependency information available
+2019-08-20 13:48:37,196 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.wildfly.plugins:wildfly-maven-plugin:1.0.2.Final: Plugin org.wildfly.plugins:wildfly-maven-plugin:1.0.2.Final or one of its dependencies could not be resolved: Cannot access central (http://repo.maven.apache.org/maven2) in offline mode and the artifact org.wildfly.plugins:wildfly-maven-plugin:jar:1.0.2.Final has not been downloaded from it before.
+2019-08-20 13:48:37,228 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.wildfly.plugins:wildfly-maven-plugin:jar:1.0.2.Final is missing, no dependency information available
+2019-08-20 13:48:37,250 [Worker-44] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.wildfly.plugins:wildfly-maven-plugin:1.0.2.Final: Plugin org.wildfly.plugins:wildfly-maven-plugin:1.0.2.Final or one of its dependencies could not be resolved: Cannot access central (http://repo.maven.apache.org/maven2) in offline mode and the artifact org.wildfly.plugins:wildfly-maven-plugin:jar:1.0.2.Final has not been downloaded from it before.
+2019-08-20 13:48:37,303 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:48:37,620 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Generating application.xml
+2019-08-20 13:48:37,648 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:48:37,648 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-ear\src\main\resources
+2019-08-20 13:48:38,141 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:48:38,141 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-model\src\main\resources
+2019-08-20 13:48:38,151 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:48:38,151 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-model\src\test\resources
+2019-08-20 13:48:39,774 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:48:39,774 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-08-20 13:48:39,814 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:48:39,822 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-08-20 13:48:41,398 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:48:41,398 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-web\src\main\resources
+2019-08-20 13:48:41,408 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 13:48:41,418 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-web\src\test\resources
+2019-08-20 13:48:41,428 [Worker-44] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of modulo-arjconsultoria-web
+2019-08-20 13:48:41,428 [Worker-44] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for modulo-arjconsultoria-web
+2019-08-20 13:48:41,448 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 14:01:25,240 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 14:01:25,243 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-08-20 14:01:25,277 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 14:01:25,289 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-08-20 14:01:37,909 [Worker-60] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-08-20 14:01:38,169 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.EjbLifecycleMapping lifecycle mapping for MavenProject: br.com.arjconsultoria:modulo-arjconsultoria-ejb:0.0.1-SNAPSHOT @ C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-ejb\pom.xml.
+2019-08-20 14:01:39,031 [Worker-60] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /modulo-arjconsultoria-ejb/src/main/java
+2019-08-20 14:01:39,043 [Worker-60] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /modulo-arjconsultoria-ejb/src/main/resources
+2019-08-20 14:01:39,073 [Worker-60] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /modulo-arjconsultoria-ejb/src/test/java
+2019-08-20 14:01:39,083 [Worker-60] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /modulo-arjconsultoria-ejb/src/test/resources
+2019-08-20 14:01:39,941 [Worker-60] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2019-08-20 14:01:41,042 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 14:01:41,095 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-08-20 14:01:41,166 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 14:01:41,166 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-08-20 14:07:44,530 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 14:07:44,530 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-08-20 14:07:44,561 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 14:07:44,561 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-08-20 14:50:56,275 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 14:50:56,279 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-08-20 14:50:56,416 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 14:50:56,417 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2019-08-20 17:11:47,135 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:11:47,135 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-08-20 17:11:47,274 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 17:11:47,368 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-08-20 19:20:47,963 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 19:20:47,966 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-model\src\main\resources
+2019-08-20 19:20:48,039 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 19:20:48,073 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-model\src\test\resources
+2019-08-20 19:21:27,188 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 19:21:27,188 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-model\src\main\resources
+2019-08-20 19:21:27,189 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 19:21:27,189 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-model\src\test\resources
+2019-08-20 19:24:41,560 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 19:24:41,586 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-model\src\main\resources
+2019-08-20 19:24:41,608 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 19:24:41,608 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-model\src\test\resources
+2019-08-20 19:24:56,726 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 19:24:56,726 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-model\src\main\resources
+2019-08-20 19:24:56,727 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 19:24:56,728 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-model\src\test\resources
+2019-08-20 19:27:25,214 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 19:27:25,275 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-model\src\main\resources
+2019-08-20 19:27:25,293 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 19:27:25,293 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-model\src\test\resources
+2019-08-20 19:36:06,398 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 19:36:06,399 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-model\src\main\resources
+2019-08-20 19:36:06,400 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 19:36:06,400 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-model\src\test\resources
+2019-08-20 19:44:50,372 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 19:44:50,373 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-model\src\main\resources
+2019-08-20 19:44:50,424 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-08-20 19:44:50,424 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Aristides Junior\BusTurismo\AgTurismoNascimento\arjConsultoriaAbv\modulo-arjconsultoria-model\src\test\resources
